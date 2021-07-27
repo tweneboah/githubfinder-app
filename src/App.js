@@ -145,7 +145,7 @@ function App() {
                   <div class="py-6 px-8"></div>
                 </div>
               </div>
-              <div class="text-center bg-gray-300 ">
+              <div class="text-center bg-gray-900 pt-10 w-full ">
                 <p class="mb-4  text-gray-300">
                   Developed by
                   <span class="p-2 text-yellow-300">
